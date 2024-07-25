@@ -1,0 +1,14 @@
+*body{
+
+    background-color: aqua;
+    
+}
+nav{
+    color: blueviolet;
+}
+nav a:hover{
+    color: brown;
+}
+.table{
+    border: 15;
+}
